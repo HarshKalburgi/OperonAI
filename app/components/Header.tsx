@@ -16,7 +16,7 @@ const Header = () => {
         <Link href="/" className="flex items-center space-x-2">
           <div className="flex items-center space-x-2">
             <Image
-              src="C:\Users\harsh\OneDrive\Desktop\OperonAI\images\Logo.png"
+              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/2-GQ6O2wWkj8eIyY3pdiPN3UkiwMrBfj.png"
               alt="OperonAI Logo"
               width={180}
               height={48}
